@@ -2,4 +2,4 @@ azure:
   spring:
     cloud:
       config-server:
-        health: UP
+        health: UP1
