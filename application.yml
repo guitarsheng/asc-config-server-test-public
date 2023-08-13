@@ -3,5 +3,3 @@ azure:
     cloud:
       config-server:
         health: UP
-repo: github
-auth: public
