@@ -1,5 +1,3 @@
-azure:
-  spring:
-    cloud:
-      config-server:
-        health: UP
+repo=github
+auth=public_change
+lastModifiedBy=mason
